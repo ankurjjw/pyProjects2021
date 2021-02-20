@@ -37,5 +37,6 @@ print(d)
 
 a, *b, (c, *d) = [1, 2, 3, 'python']
 print(d)
+print(b)
 
 
